@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="19.0.1" class="java.beans.XMLDecoder">
+ <object class="java.util.Hashtable">
+  <void method="put">
+   <string>2307633565989991</string>
+   <string>4563960122019991</string>
+  </void>
+  <void method="put">
+   <string>2785211800109991</string>
+   <string>4563960122019991</string>
+  </void>
+  <void method="put">
+   <string>0318346013479892</string>
+   <string>4563960122019892</string>
+  </void>
+  <void method="put">
+   <string>0605428745529991</string>
+   <string>4563960122019991</string>
+  </void>
+  <void method="put">
+   <string>2231079401109991</string>
+   <string>4563960122019991</string>
+  </void>
+ </object>
+</java>
